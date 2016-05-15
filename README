@@ -1,0 +1,9 @@
+Requirements:
+python3
+
+Setup:
+`pip install -r requirements.txt`
+
+Usage:
+`./scraper.py 05/14/2016`
+
